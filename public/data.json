@@ -1,0 +1,53 @@
+
+{
+    "education" : [
+  {
+    "id": 1,
+    "degree": "Bachelor of Computer Science",
+    "institute": "NFC Institute of Engineering and Technology",
+    "year": "2023 – Present",
+    "description": "Studying software engineering, web development, and AI."
+  },
+  {
+    "id": 2,
+    "degree": "Intermediate (FSC Pre-Medical)",
+    "institute": "Nishat College of Science",
+    "year": "2021 – 2023",
+    "description": "Completed with strong background in english and physics."
+  },
+  {
+    "id": 3,
+    "degree": "Matric (Science)",
+    "institute": "Nishat School",
+    "year": "2019 – 2021",
+    "description": "Major subjects: Biology, Mathematics, Physics."
+  }
+],
+  "experience": [
+    {
+      "id": 1,
+      "role": "Freelance Web Developer",
+      "company": "Self-employed",
+      "duration": "2023 – Present",
+      "description": "Built responsive websites using React, Chakra UI, and JavaScript."
+    }
+  ],
+
+  "skills": [
+    {
+      "id": 1,
+      "category": "Frontend",
+      "items": ["HTML", "CSS", "JavaScript", "React", "Chakra UI"]
+    },
+    {
+      "id": 2,
+      "category": "Backend",
+      "items": ["Node.js (Basics)", "Express (Basics)", "MongoDB (Basics)"]
+    },
+    {
+      "id": 3,
+      "category": "Tools",
+      "items": ["Git", "GitHub", "VS Code", "Figma"]
+    }
+  ]
+}
